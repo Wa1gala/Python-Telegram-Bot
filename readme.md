@@ -1,13 +1,14 @@
 # Bot for Telegram
 
-Делаю бота для телеграма
+__Делаю бота для телеграма__
 
-Разбил бота на отдельные модули:
-- handlers
-- keyboards
-- И основная часть 
+__Разбил бота на отдельные модули:__
+- Oсновная часть 
+- [handlers](https://github.com/Wa1gala/Python_Telegram_Bot/tree/main/Handlers)
+- [keyboards](https://github.com/Wa1gala/Python_Telegram_Bot/tree/main/keyboards)
 
-Сделал кастомные кнопки для клавиатуры:
+__Сделал кастомные кнопки для клавиатуры:__
+__(Команды для бота)__
 - /вк
 - /инст
-- /Меню (Еще делаю!!!!)
+- /Меню (__Еще делаю!!!!__)
