@@ -3,3 +3,4 @@ cenz.json
 bot_run.bat
 /__pycache__
 /handlers/__pycache__
+/keyboards/__pycache__
