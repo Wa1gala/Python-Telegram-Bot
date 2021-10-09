@@ -1,6 +1,9 @@
-/venv
+# files
 cenz.json
 bot_run.bat
+
+# folders
+/venv
 /__pycache__
-/handlers/__pycache__
+/Handlers/__pycache__
 /keyboards/__pycache__
