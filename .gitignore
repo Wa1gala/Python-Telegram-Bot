@@ -7,3 +7,4 @@ bot_run.bat
 /__pycache__
 /Handlers/__pycache__
 /keyboards/__pycache__
+/handlers/__pycache__
